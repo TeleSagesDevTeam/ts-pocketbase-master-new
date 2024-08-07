@@ -1,0 +1,7 @@
+**/*.md
+**/.git
+**/.dockerignore
+**/captain-definition
+**/Dockerfile
+**/scripts/*
+**/*.sql
